@@ -10,11 +10,18 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <code><img width="10%" src="https://www.svgrepo.com/show/303205/html-5-logo.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/452185/css-3.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+ <code><img width="10%" src="https://www.svgrepo.com/show/452045/js.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/353498/bootstrap.svg"></code>
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/354310/sass.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/452075/node-js.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/452092/react.svg"></code>
+<br />
+<code><img width="10%" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"></code>
+<code><img width="10%" src="https://www.svgrepo.com/show/452210/git.svgg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/512317/github-142.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/452077/npm.svg"></code>
 </div>
 
 # 📊GitHub Stats :
