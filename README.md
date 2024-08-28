@@ -9,9 +9,9 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 <hr>
 <h1>GitHub Stats! 📊</h1>
 <hr>
-[![Bahadır's github stats](https://github-readme-stats.vercel.app/api?username=nurdoganbahadir&show_icons=true&theme=tokyonight)](https://github.com/nurdoganbahadir/github-readme-stats) 
+![Bahadır's github stats](https://github-readme-stats.vercel.app/api?username=nurdoganbahadir&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurdoganbahadir&theme=tokyonight" alt="mystreak"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurdoganbahadir&layout=compact&theme=tokyonight)](https://github.com/nurdoganbahadir/github-readme-stats)
+![Bahadır's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurdoganbahadir&theme=tokyonight&layout=compact)
 <hr>
 <h1>Certifications! 🏆</h1>
 <hr>
