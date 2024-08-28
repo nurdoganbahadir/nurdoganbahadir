@@ -9,6 +9,7 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <code><img width="10%" src="https://www.svgrepo.com/show/303205/html-5-logo.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/452185/css-3.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <br />
