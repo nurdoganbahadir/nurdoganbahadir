@@ -25,11 +25,10 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 </div>
 
 # 📊GitHub Stats :
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=nurdoganbahadir&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nurdoganbahadir&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurdoganbahadir&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
 
 
 <h1>Certifications! 🏆</h1>
