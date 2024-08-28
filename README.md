@@ -8,11 +8,10 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 
 <hr>
 <h1>GitHub Stats! 📊</h1>
-<hr>
 <br>
-![Bahadır's github stats](https://github-readme-stats.vercel.app/api?username=nurdoganbahadir&show_icons=true&theme=tokyonight)
+![Bahadir's github stats](https://github-readme-stats.vercel.app/api?username=nurdoganbahadir&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurdoganbahadir&theme=tokyonight" alt="mystreak"/>
-![Bahadır's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurdoganbahadir&theme=tokyonight&layout=compact)
+![Bahadir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurdoganbahadir&theme=tokyonight&layout=compact)
 <br>
 <hr>
 <h1>Certifications! 🏆</h1>
