@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am training to become a Full Stack Web developer. For this, I learn different technologies and work every day to improve myself. I want to take part in active projects in the future.
+
 <!--
 **nurdoganbahadir/nurdoganbahadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
