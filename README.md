@@ -13,6 +13,10 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 <Br>
 <hr>
 <Br>
+<h1>Certifications! 🏆</h1>
+<Br>
+<hr>
+<Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
 
