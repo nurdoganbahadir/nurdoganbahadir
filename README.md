@@ -19,7 +19,7 @@ I am training to become a Full Stack Web developer. For this, I learn different 
   <code><img width="10%" src="https://www.svgrepo.com/show/452092/react.svg"></code>
 <br />
 <code><img width="10%" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"></code>
-<code><img width="10%" src="https://www.svgrepo.com/show/452210/git.svgg"></code>
+<code><img width="10%" src="https://www.svgrepo.com/show/452210/git.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/512317/github-142.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/452077/npm.svg"></code>
 </div>
