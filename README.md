@@ -11,6 +11,13 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 - 💬 Ask me questions about CSS, HTML, JavaScript and React.<br>
 - 😄 Fun fact: I love Cars(🚗), Codeing(💻), Traveling(🌍).<br>
 <br>
+
+## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nurdoganbahadir/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:nurdoganbahadirr@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+
 <br>
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <div align="center">
