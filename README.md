@@ -37,6 +37,20 @@ I am training to become a Full Stack Web developer. For this, I learn different 
   <code><img width="10%" src="https://www.svgrepo.com/show/512317/github-142.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/452077/npm.svg"></code>
 </div>
+<br />
+
+| Project Repo Link | Libraries and Technologies I use | Project Live Link |
+|----------|----------|----------|
+|_[Todo App](https://github.com/nurdoganbahadir/todo-app)_ | React, useState, useEffect, localestorrage, Bootstrap | _[Live Link](https://todo-app-nurdoganbahadir.netlify.app/)_ |
+|_[Library App](https://github.com/nurdoganbahadir/my-library)_ | React, useState, useEffect, axios, async await, Github User API, react-router-dom, react-bootsrap, styled-components,  | _[Live Link](https://my-library-nurdoganbahadir.netlify.app/)_ |
+|_[Random User App](https://github.com/nurdoganbahadir/random-user-app)_ | useState, useEffect, axios, async await, REST API | _[Live Link](https://random-user-nurdoganbahadir.netlify.app/)_ |
+|_[Rent a Car App](https://github.com/nurdoganbahadir/rent-a-car)_ | React, React DOM, Components, Props | _[Live Link](https://rent-a-car-nurdoganbahadir.netlify.app/)_ |
+|_[Beşiktaş Team App](https://github.com/nurdoganbahadir/besiktas-team)_ | React, React Bootstrap, React DOM, Components, Props ,  | _[Live Link](https://bjk-team-nurdoganbahadir.netlify.app/)_ |
+
+
+
+
+<br /> 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=nurdoganbahadir&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
