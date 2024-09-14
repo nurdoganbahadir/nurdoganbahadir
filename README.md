@@ -29,6 +29,7 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 
 | Project Repo Link | Libraries and Technologies I use | Project Live Link |
 |----------|----------|----------|
+|_[Shopping App](https://github.com/nurdoganbahadir/shopping)_ | React, useState, useEffect, axios, React Bootstrap, async await, API, react router dom | _[Live Link](https://shopping-app-nurdoganbahadir.netlify.app/)_ |
 |_[Todo App](https://github.com/nurdoganbahadir/todo-app)_ | React, useState, useEffect, localestorrage, Bootstrap | _[Live Link](https://todo-app-nurdoganbahadir.netlify.app/)_ |
 |_[Library App](https://github.com/nurdoganbahadir/my-library)_ | React, useState, useEffect, axios, async await, Github User API, react-router-dom, react-bootsrap, styled-components,  | _[Live Link](https://my-library-nurdoganbahadir.netlify.app/)_ |
 |_[Random User App](https://github.com/nurdoganbahadir/random-user-app)_ | useState, useEffect, axios, async await, REST API | _[Live Link](https://random-user-nurdoganbahadir.netlify.app/)_ |
