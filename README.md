@@ -25,6 +25,7 @@ I am training to become a Full Stack Web developer. For this, I learn different 
   
 </div>
 <br>
+
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-gray?style=for-the-badge&logo=javascript)
@@ -47,7 +48,8 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 
 
 
-
+<br>
+<br>
 
 
 | Project Repo Link | Libraries and Technologies I use | Project Live Link |
