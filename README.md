@@ -54,6 +54,8 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 
 | Project Repo Link | Libraries and Technologies I use | Project Live Link |
 |----------|----------|----------|
+|_[React Redux Toolkit](https://github.com/nurdoganbahadir/React-Redux-Toolkit)_ | React, Material UI, Redux, API, react douter dom, axios | _[Live Link](https://redux-toolkit-nurdoganbahadir.netlify.app/login)_ |
+|_[React Redux Shopping](https://github.com/nurdoganbahadir/React-Redux-Shopping)_ | React, Material UI, Redux, API, react douter dom | _[Live Link](https://shopping-nurdoganbahadir.netlify.app)_ |
 |_[TNY Rent a Car App](https://github.com/nurdoganbahadir/React-TNY-Rent-a-Car)_ | React, TailwindCSS, Flowbite, Swiper, react-tostify, mockAPI, react douter dom | _[Live Link](https://tny-rentacar-nurdoganbahadir.netlify.app/)_ |
 |_[Ancient App](https://github.com/nurdoganbahadir/React-Ancient-Cities)_ | React, useState, useEffect, React Bootstrap | _[Live Link](https://ancient-city-nurdoganbahadir.netlify.app/)_ |
 |_[Portfolio](https://github.com/nurdoganbahadir/Portfolio-With-React)_ | React, useState, useEffect, React Bootstrap, react router dom, SASS, react-icons | _[Live Link](https://portfolio-nurdoganbahadir.netlify.app/)_ |
