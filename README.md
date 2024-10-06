@@ -45,6 +45,8 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 ![SASS](https://img.shields.io/badge/sass-pink.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-lightblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Formik](https://img.shields.io/badge/formik-blue.svg?style=for-the-badge&logo=formik&logoColor=white)
+
 
 
 
