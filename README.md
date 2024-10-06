@@ -42,9 +42,9 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 ![GitLab](https://img.shields.io/badge/gitlab-orange.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-blue.svg?style=for-the-badge&logo=linux&logoColor=white)
-![SASS](https://img.shields.io/badge/sass-pink.svg?style=for-the-badge&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-pink.svg?style=for-the-badge&logo=sass&logoColor=black)
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-lightblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-lightblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=black)
 ![Formik](https://img.shields.io/badge/formik-blue.svg?style=for-the-badge&logo=formik&logoColor=white)
 
 
