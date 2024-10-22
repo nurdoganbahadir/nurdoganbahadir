@@ -8,8 +8,8 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 
 <br>
 - 🔭 I'am currently a full stack developer student.<br>
-- 🌱 I'am currently learning React.<br>
-- 💬 Ask me questions about CSS, HTML, JavaScript and React.<br>
+- 🌱 I'am currently learning TypeScript and Next.js.<br>
+- 💬 Ask me questions about CSS, HTML, TypeScript,JavaScript , Next.js and React.<br>
 - 📫 How to reach me **nurdoganbahadirr@gmail.com** <br>
 - 😄 Fun fact: I love Cars(🚗), Codeing(💻), Traveling(🌍).<br>
 <br>
