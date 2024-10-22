@@ -57,6 +57,7 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 | Project Repo Link | Libraries and Technologies I use | Project Live Link |
 |----------|----------|----------|
 |_[React Stock App](https://github.com/nurdoganbahadir/React-Stock-App)_ | Redux Toolkit, Material UI, Tailwind CSS, Formik and Yup, Toast Notify, axios, react router dom, Persist | _[Live Link](https://stock-app-nurdoganbahadir.vercel.app/)_ |
+|_[TypeScript Todo App](https://github.com/nurdoganbahadir/TypeScript-Todo-App)_ | TypeScript, Material UI, SweetAlert, axios, MockAPI | _[Live Link](https://todoapp-nurdoganbahadir.netlify.app)_ |
 |_[React Redux Toolkit](https://github.com/nurdoganbahadir/React-Redux-Toolkit)_ | React, Material UI, Redux, API, react douter dom, axios | _[Live Link](https://redux-toolkit-nurdoganbahadir.netlify.app/login)_ |
 |_[React Redux Shopping](https://github.com/nurdoganbahadir/React-Redux-Shopping)_ | React, Material UI, Redux, API, react douter dom | _[Live Link](https://shopping-nurdoganbahadir.netlify.app)_ |
 |_[TNY Rent a Car App](https://github.com/nurdoganbahadir/React-TNY-Rent-a-Car)_ | React, TailwindCSS, Flowbite, Swiper, react-tostify, mockAPI, react douter dom | _[Live Link](https://tny-rentacar-nurdoganbahadir.netlify.app/)_ |
