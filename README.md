@@ -29,23 +29,25 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-gray?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-lightblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![SASS](https://img.shields.io/badge/sass-pink.svg?style=for-the-badge&logo=sass&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![NODEJS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-orange.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-blue.svg?style=for-the-badge&logo=linux&logoColor=white)
-![SASS](https://img.shields.io/badge/sass-pink.svg?style=for-the-badge&logo=sass&logoColor=black)
-![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-lightblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Formik](https://img.shields.io/badge/formik-blue.svg?style=for-the-badge&logo=formik&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 
