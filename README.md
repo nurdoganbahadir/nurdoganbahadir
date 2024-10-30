@@ -48,6 +48,7 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Formik](https://img.shields.io/badge/formik-blue.svg?style=for-the-badge&logo=formik&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 
 
