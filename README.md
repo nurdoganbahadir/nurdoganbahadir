@@ -53,6 +53,7 @@ I am training to become a Full Stack Web developer. For this, I learn different 
 ![Formik](https://img.shields.io/badge/formik-blue.svg?style=for-the-badge&logo=formik&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 
 
